@@ -1,0 +1,7 @@
+C:\Users\lyle\source\repos\TestTeamCity\TestTeamCity\bin\Debug\TestTeamCity.exe.config
+C:\Users\lyle\source\repos\TestTeamCity\TestTeamCity\bin\Debug\TestTeamCity.exe
+C:\Users\lyle\source\repos\TestTeamCity\TestTeamCity\bin\Debug\TestTeamCity.pdb
+C:\Users\lyle\source\repos\TestTeamCity\TestTeamCity\obj\Debug\TestTeamCity.csprojAssemblyReference.cache
+C:\Users\lyle\source\repos\TestTeamCity\TestTeamCity\obj\Debug\TestTeamCity.csproj.CoreCompileInputs.cache
+C:\Users\lyle\source\repos\TestTeamCity\TestTeamCity\obj\Debug\TestTeamCity.exe
+C:\Users\lyle\source\repos\TestTeamCity\TestTeamCity\obj\Debug\TestTeamCity.pdb
